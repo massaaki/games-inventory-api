@@ -42,11 +42,12 @@
       "type": "enumeration",
       "enum": [
         "FREE",
-        "peg3",
-        "peg7",
-        "peg12",
-        "peg16",
-        "peg18"
+        "br3",
+        "br7",
+        "br12",
+        "br14",
+        "br16",
+        "br18"
       ]
     },
     "cover": {
